@@ -48,7 +48,7 @@ jupyter notebook
    
      By running the first cell of the file, all of the required packages will be installed 
      
-![dependencies](https://drive.google.com/file/d/1UGqh69XtNryQ9uS9FwtDVlYk_vrDbf-p/view?usp=sharing)
+![dependencies](https://ibb.co/nrkmMPR)
    
      OR you can install required packages with the following commands in your virtual environment:
    
