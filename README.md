@@ -48,8 +48,8 @@ jupyter notebook
    
      By running the first cell of the file, all of the required packages will be installed 
      
-![dependencies](https://ibb.co/nrkmMPR)
-   
+<a href="https://ibb.co/nrkmMPR"><img src="https://i.ibb.co/NxYC2T7/Wordcloud1.png" alt="Wordcloud1" border="0"></a>
+
      OR you can install required packages with the following commands in your virtual environment:
    
 ```
